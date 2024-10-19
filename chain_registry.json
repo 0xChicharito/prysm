@@ -151,6 +151,10 @@
         "provider": "Synergy Nodes"
       },
       {
+       "address": "prysm-grpc.validatorvn.com:44090",
+        "provider": "ValidatorVN"
+      },
+      {
         "address": "prysm-grpc.node9x.com:443",
         "provider": "Chichariro | Node9X"
       }
